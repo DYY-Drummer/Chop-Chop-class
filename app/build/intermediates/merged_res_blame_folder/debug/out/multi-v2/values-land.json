@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\57486\\Desktop\\CoverFlow-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\57486\\Desktop\\gradle-4.6-all\\bcst21l2brirad8k2ben1letg\\gradle-4.6\\caches\\transforms-2\\files-2.1\\e5daa3a4d7bb51962b6dc0d719dc5b45\\appcompat-v7-22.2.1\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\57486\\.gradle\\caches\\transforms-2\\files-2.1\\e5daa3a4d7bb51962b6dc0d719dc5b45\\appcompat-v7-22.2.1\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "4,7,10,11,14,17,18",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\57486\\Desktop\\gradle-4.6-all\\bcst21l2brirad8k2ben1letg\\gradle-4.6\\caches\\transforms-2\\files-2.1\\5d1101ac6c0aa27d74ab32aa73d1a083\\design-22.2.1\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\57486\\.gradle\\caches\\transforms-2\\files-2.1\\5d1101ac6c0aa27d74ab32aa73d1a083\\design-22.2.1\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

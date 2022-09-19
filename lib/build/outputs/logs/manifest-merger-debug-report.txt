@@ -1,31 +1,31 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml:1:1-8:12
-INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml:1:1-8:12
-INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml:1:1-8:12
+ADDED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml:1:1-8:12
 	package
-		ADDED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml:2:5-37
-		INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml:2:5-37
+		INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml:1:11-69
 application
-ADDED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml:4:5-6:19
+ADDED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml:4:5-6:19
 	android:label
-		ADDED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml:4:45-77
+		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml:4:45-77
 	android:allowBackup
-		ADDED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml:4:18-44
+		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml:4:18-44
 uses-sdk
-INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
-INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
-INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
-INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
-		ADDED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
-		ADDED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml
+		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\lib\src\main\AndroidManifest.xml

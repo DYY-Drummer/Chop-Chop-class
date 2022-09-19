@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\57486\\Desktop\\CoverFlow-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
+            "outputFile": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\57486\\Desktop\\gradle-4.6-all\\bcst21l2brirad8k2ben1letg\\gradle-4.6\\caches\\transforms-2\\files-2.1\\685a1723dde546d2ddae5f454ec9d62d\\play-services-basement-9.8.0\\res\\values-zu\\values.xml",
+                    "source": "C:\\Users\\57486\\.gradle\\caches\\transforms-2\\files-2.1\\685a1723dde546d2ddae5f454ec9d62d\\play-services-basement-9.8.0\\res\\values-zu\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\57486\\Desktop\\gradle-4.6-all\\bcst21l2brirad8k2ben1letg\\gradle-4.6\\caches\\transforms-2\\files-2.1\\e5daa3a4d7bb51962b6dc0d719dc5b45\\appcompat-v7-22.2.1\\res\\values-zu\\values-zu.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "291,399,506,620,708,811,938,1042,1148,1246,1353,1459,1565",
-                        "endColumns": "107,106,113,87,102,126,103,105,97,106,105,105,119",
-                        "endOffsets": "394,501,615,703,806,933,1037,1143,1241,1348,1454,1560,1680"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,320,434,522,625,752,856,962,1060,1167,1273,1379",
-                        "endColumns": "107,106,113,87,102,126,103,105,97,106,105,105,119",
-                        "endOffsets": "208,315,429,517,620,747,851,957,1055,1162,1268,1374,1494"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\57486\\Desktop\\gradle-4.6-all\\bcst21l2brirad8k2ben1letg\\gradle-4.6\\caches\\transforms-2\\files-2.1\\1dbd717dc8cfb07b1696f2a13a8cc940\\play-services-base-9.8.0\\res\\values-zu\\values.xml",
+                    "source": "C:\\Users\\57486\\.gradle\\caches\\transforms-2\\files-2.1\\1dbd717dc8cfb07b1696f2a13a8cc940\\play-services-base-9.8.0\\res\\values-zu\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,6 +35,23 @@
                         "startOffsets": "1499,1612,1820,1957,2063,2290,2421,2751,2970,3082,3278,3411,3628,3815,3906,4005",
                         "endColumns": "112,207,136,105,226,130,138,218,111,195,132,216,186,90,98,113",
                         "endOffsets": "1607,1815,1952,2058,2285,2416,2555,2965,3077,3273,3406,3623,3810,3901,4000,4114"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\57486\\.gradle\\caches\\transforms-2\\files-2.1\\e5daa3a4d7bb51962b6dc0d719dc5b45\\appcompat-v7-22.2.1\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "291,399,506,620,708,811,938,1042,1148,1246,1353,1459,1565",
+                        "endColumns": "107,106,113,87,102,126,103,105,97,106,105,105,119",
+                        "endOffsets": "394,501,615,703,806,933,1037,1143,1241,1348,1454,1560,1680"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,320,434,522,625,752,856,962,1060,1167,1273,1379",
+                        "endColumns": "107,106,113,87,102,126,103,105,97,106,105,105,119",
+                        "endOffsets": "208,315,429,517,620,747,851,957,1055,1162,1268,1374,1494"
                     }
                 }
             ]

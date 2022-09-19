@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CoverFlow-master.iml" filepath="$PROJECT_DIR$/CoverFlow-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chop-Chop-class.iml" filepath="$PROJECT_DIR$/.idea/modules/Chop-Chop-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Chop-Chop-class.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Chop-Chop-class.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Chop-Chop-class.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Chop-Chop-class.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Chop-Chop-class.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Chop-Chop-class.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Chop-Chop-class.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Chop-Chop-class.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/Chop-Chop-class.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/Chop-Chop-class.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/Chop-Chop-class.lib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/Chop-Chop-class.lib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/Chop-Chop-class.lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/Chop-Chop-class.lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/Chop-Chop-class.lib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/Chop-Chop-class.lib.unitTest.iml" />
     </modules>
   </component>
 </project>

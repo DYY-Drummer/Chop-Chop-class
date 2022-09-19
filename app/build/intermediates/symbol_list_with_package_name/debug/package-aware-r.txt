@@ -1,4 +1,4 @@
-it.moondroid.coverflowdemo
+com.controller
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -694,6 +694,7 @@ drawable smarthomewall_locked_background
 drawable smarthomewall_notpass
 drawable smarthomewall_pass
 drawable snackbar_background
+drawable temperature
 drawable thumb_image
 id acce_status
 id action0
@@ -749,6 +750,8 @@ id buscard_back
 id button4
 id button5
 id button6
+id button7
+id button8
 id buttonPanel
 id camera_button
 id cancel_action
