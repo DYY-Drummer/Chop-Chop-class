@@ -658,6 +658,7 @@ drawable image_4
 drawable image_5
 drawable label_background
 drawable notification_template_icon_bg
+drawable return_icon
 drawable rounded_rectangle
 drawable seek_image
 drawable side_nav_bar
@@ -695,6 +696,8 @@ drawable smarthomewall_notpass
 drawable smarthomewall_pass
 drawable snackbar_background
 drawable temperature
+drawable temperature_background
+drawable temperature_monitor
 drawable thumb_image
 id acce_status
 id action0
@@ -747,12 +750,12 @@ id btnWater
 id btn_author
 id btn_cancel_author
 id buscard_back
-id button4
 id button5
 id button6
 id button7
 id button8
 id buttonPanel
+id button_temperature
 id camera_button
 id cancel_action
 id center
@@ -818,6 +821,7 @@ id idView
 id ifRoom
 id image
 id imageView
+id imageView2
 id imageView3
 id index_entity_types
 id info
@@ -877,6 +881,7 @@ id resume_idView
 id resume_radio
 id resume_statusView
 id resume_sumView
+id return_temperature
 id rfc822
 id right
 id screen
@@ -930,6 +935,8 @@ id text2
 id textSpacerNoButtons
 id textView
 id textView2
+id textView3
+id textView5
 id thing_proto
 id time
 id timeView
@@ -991,6 +998,7 @@ layout activity_resume
 layout activity_smartagriculture
 layout activity_smarthome
 layout activity_smarthome_wall
+layout activity_temperature_monitor
 layout activity_zigbeetest
 layout design_navigation_item
 layout design_navigation_item_header

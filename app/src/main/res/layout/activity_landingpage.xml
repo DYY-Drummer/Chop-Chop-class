@@ -47,11 +47,10 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="164dp"
-        android:orientation="vertical"
-        android:translationY="30dp">
+        android:orientation="vertical">
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/button_temperature"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:background="@drawable/button_background"
@@ -77,7 +76,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="188dp"
+        android:layout_height="156dp"
         android:orientation="vertical">
 
         <Button
@@ -97,7 +96,7 @@
             android:textSize="34sp"
             android:textStyle="bold"
             android:translationX="120dp"
-            android:translationY="20dp" />
+            android:translationY="-10dp" />
     </LinearLayout>
 
     <LinearLayout

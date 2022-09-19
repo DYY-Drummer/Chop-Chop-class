@@ -80,6 +80,10 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\background.jpg"
     },
     {
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_return_icon.png.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\return_icon.png"
+    },
+    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_image.xml.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\thumb_image.xml"
     },
@@ -88,12 +92,12 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xxhdpi\\ic_info_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_card_activity_group.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_card_activity_group.xml"
-    },
-    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_zigbeetest.xml.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_zigbeetest.xml"
+    },
+    {
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_card_activity_group.xml.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_card_activity_group.xml"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cover_selector.xml.flat",
@@ -120,12 +124,12 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xhdpi\\ic_notifications_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_bedroom_window_day.png.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_bedroom_window_day.png"
-    },
-    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_main2.xml.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_bedroom_window_day.png.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_bedroom_window_day.png"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_notpass.png.flat",
@@ -194,6 +198,10 @@
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temperature_background.jpg.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\temperature_background.jpg"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\xml_settings_foodtraceability.xml.flat",
@@ -276,6 +284,10 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temperature_monitor.PNG.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\temperature_monitor.PNG"
+    },
+    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_symbol_wrong.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_symbol_wrong.png"
     },
@@ -346,6 +358,10 @@
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_temperature_monitor.xml.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_temperature_monitor.xml"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_light1.png.flat",

@@ -6,5 +6,9 @@ com/controller/BootReceiver.java
  com.controller.BootReceiver
 realarm/hardware/HardwareControl.java
  realarm.hardware.HardwareControl
+com/controller/temperature_monitorActivity.java
+ com.controller.temperature_monitorActivity
+ com.controller.temperature_monitorActivity$1
 com/controller/LandingpageActivity.java
  com.controller.LandingpageActivity
+ com.controller.LandingpageActivity$1

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/temperature_background"
+    >
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="244dp"
+        android:layout_height="255dp"
+        android:translationX="90dp"
+        android:src="@drawable/temperature_monitor" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shadowColor="#E3367A"
+        android:shadowDx="9"
+        android:shadowDy="9"
+        android:shadowRadius="6"
+        android:text="27.5 ℃"
+        android:textColor="#ffffff"
+        android:textSize="110px"
+        android:textStyle="bold"
+        android:translationX="135dp"
+        android:translationY="-150dp" />
+
+    <Button
+        android:id="@+id/return_temperature"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:background="@drawable/return_icon"
+        android:translationX="10dp"
+        android:translationY="-300dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shadowColor="#636363"
+        android:shadowDx="9"
+        android:shadowDy="9"
+        android:shadowRadius="6"
+        android:text="室 内 温 度"
+        android:textColor="#ffffff"
+        android:textSize="110px"
+        android:textStyle="bold"
+        android:translationX="110dp"
+        android:translationY="200dp" />
+
+</LinearLayout>
