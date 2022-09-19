@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="189dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/title_bar"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:alpha="0.7"
+            android:background="#474141"
+            android:orientation="vertical"
+            android:translationY="55dp">
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="61dp"
+                android:layout_height="wrap_content"
+                android:translationX="3dp"
+                android:src="@drawable/chop_chop_logo" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:alpha="1"
+                android:text="Chop-Chop 掌上教室"
+                android:textColor="#66C6D3"
+                android:textSize="90px"
+                android:textStyle="bold"
+                android:translationX="75dp"
+                android:translationY="-60dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="164dp"
+        android:orientation="vertical"
+        android:translationY="30dp">
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/button_background"
+            android:text="温 度 监 控"
+            android:textColor="#DFF4ED"
+            android:textSize="70px"
+            android:textStyle="bold"
+            android:translationX="25dp" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/button_background"
+            android:text="投 影 系 统"
+            android:textColor="#DFF4ED"
+            android:textSize="70px"
+            android:textStyle="bold"
+            android:translationX="230dp"
+            android:translationY="-150dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="188dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:background="@drawable/course_icon"
+            android:shadowColor="#E158A3"
+            android:shadowDx="9"
+
+            android:shadowDy="9"
+
+            android:shadowRadius="6"
+
+            android:text="上 课  "
+            android:textColor="#EDE6DA"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            android:translationX="120dp"
+            android:translationY="20dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="150dp"
+            android:layout_height="149dp"
+            android:background="@drawable/button_background"
+            android:text="考 勤 打 卡"
+            android:textColor="#DFF4ED"
+            android:textSize="70px"
+            android:textStyle="bold"
+            android:translationX="25dp"
+            android:translationY="0dp" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/button_background"
+            android:text="空  调"
+            android:textColor="#DFF4ED"
+            android:textSize="70px"
+            android:textStyle="bold"
+            android:translationX="230dp"
+            android:translationY="-150dp" />
+    </LinearLayout>
+
+
+</LinearLayout>

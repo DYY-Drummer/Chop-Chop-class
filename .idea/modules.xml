@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoverFlow-master.iml" filepath="$PROJECT_DIR$/CoverFlow-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CoverFlow-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/CoverFlow-master.lib.unitTest.iml" />
+    </modules>
+  </component>
+</project>

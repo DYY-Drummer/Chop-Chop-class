@@ -1,0 +1,46 @@
+it/moondroid/coverflow/components/ui/containers/HorizontalListWithRemovableItems.java
+ it.moondroid.coverflow.components.ui.containers.HorizontalListWithRemovableItems
+ it.moondroid.coverflow.components.ui.containers.HorizontalListWithRemovableItems$1
+ it.moondroid.coverflow.components.ui.containers.HorizontalListWithRemovableItems$2
+ it.moondroid.coverflow.components.ui.containers.HorizontalListWithRemovableItems$3
+it/moondroid/coverflow/components/general/Validate.java
+ it.moondroid.coverflow.components.general.Validate
+it/moondroid/coverflow/components/ui/containers/contentbands/EndlessContentBand.java
+ it.moondroid.coverflow.components.ui.containers.contentbands.EndlessContentBand
+it/moondroid/coverflow/BuildConfig.java
+ it.moondroid.coverflow.BuildConfig
+it/moondroid/coverflow/components/ui/containers/contentbands/BasicContentBand.java
+ it.moondroid.coverflow.components.ui.containers.contentbands.BasicContentBand
+ it.moondroid.coverflow.components.ui.containers.contentbands.BasicContentBand$1
+ it.moondroid.coverflow.components.ui.containers.contentbands.BasicContentBand$AbstractAdapter
+ it.moondroid.coverflow.components.ui.containers.contentbands.BasicContentBand$AbstractAdapter$1
+ it.moondroid.coverflow.components.ui.containers.contentbands.BasicContentBand$AbstractAdapter$2
+ it.moondroid.coverflow.components.ui.containers.contentbands.BasicContentBand$AbstractAdapter$IDataListener
+ it.moondroid.coverflow.components.ui.containers.contentbands.BasicContentBand$Adapter
+ it.moondroid.coverflow.components.ui.containers.contentbands.BasicContentBand$LayoutParams
+ it.moondroid.coverflow.components.ui.containers.contentbands.BasicContentBand$OnItemClickListener
+ it.moondroid.coverflow.components.ui.containers.contentbands.BasicContentBand$ViewCache
+it/moondroid/coverflow/components/ui/containers/interfaces/IRemoveFromAdapter.java
+ it.moondroid.coverflow.components.ui.containers.interfaces.IRemoveFromAdapter
+it/moondroid/coverflow/components/general/ToolBox.java
+ it.moondroid.coverflow.components.general.ToolBox
+ it.moondroid.coverflow.components.general.ToolBox$ViewCache
+it/moondroid/coverflow/components/ui/containers/FeatureCoverFlow.java
+ it.moondroid.coverflow.components.ui.containers.FeatureCoverFlow
+ it.moondroid.coverflow.components.ui.containers.FeatureCoverFlow$CoverFrame
+ it.moondroid.coverflow.components.ui.containers.FeatureCoverFlow$MyCache
+ it.moondroid.coverflow.components.ui.containers.FeatureCoverFlow$OnScrollPositionListener
+it/moondroid/coverflow/components/ui/containers/EndlessLoopAdapterContainer.java
+ it.moondroid.coverflow.components.ui.containers.EndlessLoopAdapterContainer
+ it.moondroid.coverflow.components.ui.containers.EndlessLoopAdapterContainer$1
+ it.moondroid.coverflow.components.ui.containers.EndlessLoopAdapterContainer$LoopLayoutParams
+it/moondroid/coverflow/components/ui/containers/interfaces/IRemovableItemsAdapterComponent.java
+ it.moondroid.coverflow.components.ui.containers.interfaces.IRemovableItemsAdapterComponent
+it/moondroid/coverflow/components/ui/containers/interfaces/IViewObserver.java
+ it.moondroid.coverflow.components.ui.containers.interfaces.IViewObserver
+it/moondroid/coverflow/components/ui/containers/contentbands/TileBase.java
+ it.moondroid.coverflow.components.ui.containers.contentbands.TileBase
+it/moondroid/coverflow/components/ui/containers/HorizontalList.java
+ it.moondroid.coverflow.components.ui.containers.HorizontalList
+ it.moondroid.coverflow.components.ui.containers.HorizontalList$1
+ it.moondroid.coverflow.components.ui.containers.HorizontalList$OnItemClickListener

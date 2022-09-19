@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\android-project\CoverFlow-master\lib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b00240729c1b62eaf5aeaf05e18d460c3da2ddbf">
+        <dex dex="D:\Android\android-project\CoverFlow-master\app\build\intermediates\pre-dexed\debug\classes_cc13f47c7245bbb148b8f4496bf32c6389b92529.jar" />
+    </item>
+
+</items>

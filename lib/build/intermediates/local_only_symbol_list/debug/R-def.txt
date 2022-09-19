@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+attr? adjustPositionMultiplier
+attr? adjustPositionThreshold
+attr? alignAnimationTime
+attr? circlePathRadius
+attr? circlePathRadiusInMatrixSpace
+attr? coverHeight
+attr? coverWidth
+attr? deviceSpecificPixelSize
+attr? gridMode
+attr? maxRotationAngle
+attr? maxScaleFactor
+attr? reflectionBackroundColor
+attr? reflectionGap
+attr? reflectionHeight
+attr? reflectionOpacity
+attr? rotationThreshold
+attr? scalingThreshold
+attr? shouldRepeat
+attr? spacing
+attr? tunningWidgetSize
+attr? verticalPaddingBottom
+attr? verticalPaddingTop
+drawable ico_delete_asset
+string app_name
+styleable BasicContentBand gridMode deviceSpecificPixelSize
+styleable EndlessLoopAdapterContainer shouldRepeat
+styleable FeatureCoverFlow coverWidth coverHeight spacing rotationThreshold scalingThreshold adjustPositionThreshold adjustPositionMultiplier maxRotationAngle maxScaleFactor circlePathRadius circlePathRadiusInMatrixSpace reflectionHeight reflectionGap reflectionOpacity tunningWidgetSize alignAnimationTime verticalPaddingTop verticalPaddingBottom reflectionBackroundColor

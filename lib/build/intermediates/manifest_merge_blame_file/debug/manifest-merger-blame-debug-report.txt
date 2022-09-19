@@ -1,0 +1,19 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="it.moondroid.coverflow" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="22"
+6-->C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="22" />
+7-->C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml
+8
+9    <application
+9-->C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml:4:5-6:19
+10        android:allowBackup="true"
+10-->C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml:4:18-44
+11        android:label="@string/app_name" >
+11-->C:\Users\57486\Desktop\CoverFlow-master\lib\src\main\AndroidManifest.xml:4:45-77
+12    </application>
+13
+14</manifest>
