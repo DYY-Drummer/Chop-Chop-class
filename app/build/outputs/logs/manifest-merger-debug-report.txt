@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-108:12
-INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-108:12
-INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-108:12
-INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-108:12
+ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-104:12
 MERGED from [:lib] C:\Users\57486\Desktop\Chop-Chop-class\lib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-14:12
 MERGED from [com.android.support:design:22.2.1] C:\Users\57486\.gradle\caches\transforms-2\files-2.1\5d1101ac6c0aa27d74ab32aa73d1a083\design-22.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\57486\.gradle\caches\transforms-2\files-2.1\e5daa3a4d7bb51962b6dc0d719dc5b45\appcompat-v7-22.2.1\AndroidManifest.xml:17:1-24:12
@@ -13,25 +13,25 @@ MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\57486\.gradle\c
 MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\57486\.gradle\caches\transforms-2\files-2.1\22b515953b349f40e737fab1ea57d7b5\play-services-tasks-9.8.0\AndroidManifest.xml:2:1-5:12
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\57486\.gradle\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:16:1-23:12
 MERGED from [com.android.support:support-v4:24.0.0] C:\Users\57486\.gradle\caches\transforms-2\files-2.1\4f9f08560ca79921222a0c248f87e100\support-v4-24.0.0\AndroidManifest.xml:17:1-27:12
-INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-108:12
-INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-108:12
-INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-108:12
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-104:12
 	package
 		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:3:5-29
 		INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-108:12
+		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-104:12
 		INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-108:12
+		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-104:12
 		INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:5:5-103:19
+ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:5:5-99:19
 MERGED from [:lib] C:\Users\57486\Desktop\Chop-Chop-class\lib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-12:19
 MERGED from [:lib] C:\Users\57486\Desktop\Chop-Chop-class\lib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-12:19
 MERGED from [com.android.support:design:22.2.1] C:\Users\57486\.gradle\caches\transforms-2\files-2.1\5d1101ac6c0aa27d74ab32aa73d1a083\design-22.2.1\AndroidManifest.xml:22:5-20
@@ -75,25 +75,25 @@ ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.x
 	android:name
 		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:17:20-67
 activity#com.controller.temperature_monitorActivity
-ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:20:9-27:20
+ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:20:9-23:20
 	android:label
 		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:22:13-45
 	android:name
 		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:21:13-56
 receiver#com.controller.BootReceiver
-ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:96:9-102:20
+ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:92:9-98:20
 	android:name
-		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:96:19-61
+		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:92:19-61
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:97:13-101:29
+ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:93:13-97:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:99:17-100:26
+ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:95:17-96:26
 	android:name
-		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:99:25-76
+		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:95:25-76
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:106:5-97
+ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:102:5-97
 	android:name
-		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:106:22-78
+		ADDED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:102:22-78
 uses-sdk
 INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml
