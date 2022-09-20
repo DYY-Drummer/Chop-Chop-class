@@ -23,7 +23,8 @@ public class temperature_monitorActivity extends AppCompatActivity {
         });
 
         temperature=(TextView) findViewById(R.id.value_temperature);
-        //temperature.setText("这里就是传感器的数值");
+        //TODO:绑定温度传感器数值
+        temperature.setText("27.5 ℃");
 
     }
     public void open_landingpage(){

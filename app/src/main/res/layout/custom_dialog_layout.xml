@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="1000dp"
+    android:background="@android:color/transparent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="设 置 成 功 ！"
+        android:shadowColor="#636363"
+        android:shadowDx="9"
+        android:shadowDy="9"
+        android:shadowRadius="6"
+        android:textColor="#ffffff"
+        android:textSize="50px"
+        android:textStyle="bold"
+        android:translationY="370dp"
+        android:translationX="170dp"
+        android:textAlignment="center"
+        />
+
+
+    <Button
+        android:id="@+id/btn_okay"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:background="#34ed33"
+        android:stateListAnimator="@null"
+        android:text="Okay"
+        android:textAllCaps="false"
+        android:textColor="#EFEFEF"
+        android:textSize="30px"
+        android:textStyle="bold"
+        android:translationX="250dp"
+        android:translationY="460dp" />
+</RelativeLayout>

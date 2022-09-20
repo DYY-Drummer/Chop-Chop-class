@@ -35,6 +35,7 @@
             android:src="@drawable/student_card">
         </ImageView>
         <TextView
+            android:id="@+id/student_id"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="学号:"
@@ -44,6 +45,7 @@
             android:translationY="320dp"
             android:translationX="50dp"/>
         <TextView
+            android:id="@+id/student_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="姓名："
@@ -54,6 +56,7 @@
             android:translationX="50dp"/>
 
         <TextView
+            android:id="@+id/student_attendance"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="考勤次数："

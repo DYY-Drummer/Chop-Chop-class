@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/aircondition_background">
@@ -14,7 +14,31 @@
         android:layout_width="300dp"
         android:layout_height="260dp"
         android:translationY="300dp"
-        android:translationX="100dp"
+        android:translationX="150dp"
         android:src="@drawable/aircondition">
     </ImageView>
-</LinearLayout>
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="200dp"
+        android:translationY="650dp"
+        android:translationX="100dp"
+        android:src="@drawable/wood_board">
+    </ImageView>
+    <Switch
+        android:id="@+id/switch_auto_condition"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:translationY="700dp"
+        android:translationX="110dp"
+        android:checked="false"
+        />
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:translationY="720dp"
+        android:translationX="230dp"
+        android:text="温度高于26℃时\n自动开启空调"
+        android:textColor="#4A4747"
+        android:textSize="30px"
+        android:textStyle="bold"/>
+</RelativeLayout>

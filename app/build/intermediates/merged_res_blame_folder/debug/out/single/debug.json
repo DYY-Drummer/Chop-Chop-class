@@ -12,16 +12,12 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\xml\\pref_notification.xml"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_resume.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_resume.xml"
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info_black_24dp.png.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_info_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthome_dark.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthome_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info_black_24dp.png.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_info_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_hint_message.png.flat",
@@ -48,24 +44,24 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_smarthome.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_smarthome.xml"
-    },
-    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_recharge_background.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_recharge_background.png"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foodtraceability_background.png.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\foodtraceability_background.png"
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog_layout.xml.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\custom_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main2_drawer.xml.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_button_recharge.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_button_recharge.png"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main2_drawer.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foodtraceability_background.png.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\foodtraceability_background.png"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_fire_warning.png.flat",
@@ -96,36 +92,28 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xxhdpi\\ic_info_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_card_activity_group.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_card_activity_group.xml"
-    },
-    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_zigbeetest.xml.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_zigbeetest.xml"
-    },
-    {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cover_selector.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\cover_selector.xml"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_locked_background.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_locked_background.png"
     },
     {
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cover_selector.xml.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\cover_selector.xml"
+    },
+    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_card.xml.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_card.xml"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_query.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_query.xml"
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_button_author.png.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_button_author.png"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sync_black_24dp.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xhdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_button_author.png.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_button_author.png"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
@@ -184,12 +172,12 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_smarthome_wall.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_smarthome_wall.xml"
-    },
-    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_panel_background.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\frame_panel_background.png"
+    },
+    {
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wood_board.png.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\wood_board.png"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_data_sync.xml.flat",
@@ -268,10 +256,6 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\anim\\slide_in_top.xml"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fullscreen.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_fullscreen.xml"
-    },
-    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_consume_background.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_consume_background.png"
     },
@@ -334,10 +318,6 @@
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
-    },
-    {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_coverflow.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_coverflow.xml"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_breakin.png.flat",
@@ -444,6 +424,10 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\xml\\settings_smartagriculture.xml"
     },
     {
+        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_label.png.flat",
+        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\dialog_label.png"
+    },
+    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_query.xml.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\menu\\menu_query.xml"
     },
@@ -472,10 +456,6 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\xml\\pref_general.xml"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_smartagriculture.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_smartagriculture.xml"
-    },
-    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image_3.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable-nodpi\\image_3.png"
     },
@@ -484,20 +464,12 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthome_btn_motor_off.png"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_coverflow.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\item_coverflow.xml"
-    },
-    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seek_image.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\seek_image.png"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_bedroom_curtains_close.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_bedroom_curtains_close.png"
-    },
-    {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recharge.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_recharge.xml"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_consume_check_right.png.flat",
@@ -516,16 +488,8 @@
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
     },
     {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_title.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\item_title.xml"
-    },
-    {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sync_black_24dp.png.flat",
         "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main2.xml.flat",
-        "source": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\src\\main\\res\\layout\\nav_header_main2.xml"
     },
     {
         "merged": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_background.xml.flat",
