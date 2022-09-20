@@ -6,13 +6,6 @@ com/controller/BootReceiver.java
  com.controller.BootReceiver
 realarm/hardware/HardwareControl.java
  realarm.hardware.HardwareControl
-com/controller/temperature_monitorActivity.java
- com.controller.temperature_monitorActivity
- com.controller.temperature_monitorActivity$1
-com/topelec/zigbeecontrol/NewSensorControl.java
- com.topelec.zigbeecontrol.NewSensorControl
-com/topelec/zigbeecontrol/Command.java
- com.topelec.zigbeecontrol.Command
 com/topelec/zigbeecontrol/SensorControl.java
  com.topelec.zigbeecontrol.SensorControl
  com.topelec.zigbeecontrol.SensorControl$1
@@ -30,10 +23,21 @@ com/topelec/zigbeecontrol/SensorControl.java
  com.topelec.zigbeecontrol.SensorControl$ShakeSensorListener
  com.topelec.zigbeecontrol.SensorControl$SmokeSensorListener
  com.topelec.zigbeecontrol.SensorControl$TempHumListener
+com/topelec/zigbeecontrol/NewSensorControl.java
+ com.topelec.zigbeecontrol.NewSensorControl
+com/topelec/zigbeecontrol/Command.java
+ com.topelec.zigbeecontrol.Command
+com/controller/temperature_monitorActivity.java
+ com.controller.temperature_monitorActivity
+ com.controller.temperature_monitorActivity$1
+com/controller/airconditionActivity.java
+ com.controller.airconditionActivity
+ com.controller.airconditionActivity$1
 com/controller/LandingpageActivity.java
  com.controller.LandingpageActivity
  com.controller.LandingpageActivity$1
  com.controller.LandingpageActivity$2
+ com.controller.LandingpageActivity$3
 com/controller/cardActivity.java
  com.controller.cardActivity
  com.controller.cardActivity$1

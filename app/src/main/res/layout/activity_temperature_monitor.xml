@@ -9,9 +9,9 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="244dp"
-        android:layout_height="255dp"
-        android:translationX="90dp"
+        android:layout_width="330dp"
+        android:layout_height="330dp"
+        android:translationX="150dp"
         android:src="@drawable/temperature_monitor" />
 
     <TextView
@@ -24,18 +24,18 @@
         android:shadowRadius="6"
         android:text="27.5 ℃"
         android:textColor="#ffffff"
-        android:textSize="110px"
+        android:textSize="55px"
         android:textStyle="bold"
-        android:translationX="135dp"
-        android:translationY="-150dp" />
+        android:translationX="210dp"
+        android:translationY="-190dp" />
 
     <Button
         android:id="@+id/return_temperature"
-        android:layout_width="60dp"
-        android:layout_height="50dp"
+        android:layout_width="70dp"
+        android:layout_height="60dp"
         android:background="@drawable/return_icon"
         android:translationX="10dp"
-        android:translationY="-300dp" />
+        android:translationY="-360dp" />
 
     <TextView
         android:id="@+id/textView5"
@@ -47,9 +47,9 @@
         android:shadowRadius="6"
         android:text="室 内 温 度"
         android:textColor="#ffffff"
-        android:textSize="110px"
+        android:textSize="60px"
         android:textStyle="bold"
-        android:translationX="110dp"
-        android:translationY="200dp" />
+        android:translationX="150dp"
+        android:translationY="240dp" />
 
 </LinearLayout>

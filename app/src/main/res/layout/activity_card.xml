@@ -11,6 +11,57 @@
         android:background="@drawable/return_icon"
         android:translationX="10dp"
         android:translationY="0dp" />
+    <TextView
+        android:id="@+id/card_title"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:shadowColor="#636363"
+        android:shadowDx="9"
+        android:shadowDy="9"
+        android:shadowRadius="6"
+        android:text="打 卡 信 息"
+        android:textColor="#ffffff"
+        android:textSize="50px"
+        android:textStyle="bold"
+        android:translationX="190dp"
+        android:translationY="100dp" />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="700dp"
+            android:translationY="100dp"
+            android:src="@drawable/student_card">
+        </ImageView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="学号:"
+            android:textColor="#4A4747"
+            android:textSize="30px"
+            android:textStyle="bold"
+            android:translationY="320dp"
+            android:translationX="50dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="姓名："
+            android:textColor="#4A4747"
+            android:textSize="30px"
+            android:textStyle="bold"
+            android:translationY="400dp"
+            android:translationX="50dp"/>
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="考勤次数："
+            android:textColor="#4A4747"
+            android:textSize="30px"
+            android:textStyle="bold"
+            android:translationX="50dp"
+            android:translationY="490dp" />
 
+    </RelativeLayout>
 </RelativeLayout>

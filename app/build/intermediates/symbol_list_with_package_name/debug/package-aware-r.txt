@@ -589,6 +589,8 @@ drawable abc_textfield_default_mtrl_alpha
 drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
+drawable aircondition
+drawable aircondition_background
 drawable back
 drawable background
 drawable btn_background
@@ -754,12 +756,13 @@ id btn_cancel_author
 id buscard_back
 id button5
 id button6
-id button7
 id buttonPanel
+id button_aircondition
 id button_card
 id button_temperature
 id camera_button
 id cancel_action
+id card_title
 id center
 id center_horizontal
 id center_vertical
@@ -883,6 +886,7 @@ id resume_idView
 id resume_radio
 id resume_statusView
 id resume_sumView
+id return_aircondition
 id return_card
 id return_temperature
 id rfc822
@@ -991,6 +995,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_simple_dropdown_hint
+layout activity_air_condition
 layout activity_card
 layout activity_card_activity_group
 layout activity_coverflow

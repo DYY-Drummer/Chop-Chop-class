@@ -9,13 +9,13 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="189dp"
+        android:layout_height="230dp"
         android:orientation="vertical">
 
         <LinearLayout
             android:id="@+id/title_bar"
             android:layout_width="match_parent"
-            android:layout_height="70dp"
+            android:layout_height="100dp"
             android:alpha="0.7"
             android:background="#474141"
             android:orientation="vertical"
@@ -23,7 +23,7 @@
 
             <ImageView
                 android:id="@+id/imageView3"
-                android:layout_width="61dp"
+                android:layout_width="70dp"
                 android:layout_height="wrap_content"
                 android:src="@drawable/chop_chop_logo"
                 android:translationX="3dp" />
@@ -31,14 +31,14 @@
             <TextView
                 android:id="@+id/textView2"
                 android:layout_width="wrap_content"
-                android:layout_height="50dp"
+                android:layout_height="70dp"
                 android:alpha="1"
                 android:text="@string/title6"
                 android:textColor="#66C6D3"
-                android:textSize="90px"
+                android:textSize="50px"
                 android:textStyle="bold"
-                android:translationX="75dp"
-                android:translationY="-60dp" />
+                android:translationX="90dp"
+                android:translationY="-90dp" />
 
         </LinearLayout>
 
@@ -46,43 +46,43 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="164dp"
+        android:layout_height="250dp"
         android:orientation="vertical">
 
         <Button
             android:id="@+id/button_temperature"
-            android:layout_width="150dp"
-            android:layout_height="150dp"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
             android:background="@drawable/button_background"
             android:text="@string/title1"
             android:textColor="#5E8C7D"
-            android:textSize="65px"
+            android:textSize="40px"
             android:textStyle="bold"
             android:translationX="25dp" />
 
         <Button
             android:id="@+id/button5"
-            android:layout_width="150dp"
-            android:layout_height="150dp"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
             android:background="@drawable/button_background"
             android:text="@string/title2"
             android:textColor="#5E8C7D"
-            android:textSize="65px"
+            android:textSize="40px"
             android:textStyle="bold"
-            android:translationX="230dp"
-            android:translationY="-150dp" />
+            android:translationX="340dp"
+            android:translationY="-240dp" />
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="156dp"
+        android:layout_height="200dp"
         android:orientation="vertical">
 
         <Button
             android:id="@+id/button6"
-            android:layout_width="170dp"
-            android:layout_height="170dp"
+            android:layout_width="230dp"
+            android:layout_height="230dp"
             android:background="@drawable/course_icon"
             android:shadowColor="#E158A3"
             android:shadowDx="9"
@@ -93,9 +93,9 @@
 
             android:text="@string/title3"
             android:textColor="#EDE6DA"
-            android:textSize="34sp"
+            android:textSize="45sp"
             android:textStyle="bold"
-            android:translationX="120dp"
+            android:translationX="175dp"
             android:translationY="-10dp" />
     </LinearLayout>
 
@@ -106,27 +106,27 @@
 
         <Button
             android:id="@+id/button_card"
-            android:layout_width="150dp"
-            android:layout_height="149dp"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
             android:background="@drawable/button_background"
             android:text="@string/title4"
             android:textColor="#5E8C7D"
-            android:textSize="65px"
+            android:textSize="40px"
             android:textStyle="bold"
             android:translationX="25dp"
             android:translationY="0dp" />
 
         <Button
-            android:id="@+id/button7"
-            android:layout_width="150dp"
-            android:layout_height="150dp"
+            android:id="@+id/button_aircondition"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
             android:background="@drawable/button_background"
             android:text="@string/title5"
             android:textColor="#5E8C7D"
-            android:textSize="65px"
+            android:textSize="40px"
             android:textStyle="bold"
-            android:translationX="230dp"
-            android:translationY="-150dp" />
+            android:translationX="340dp"
+            android:translationY="-250dp" />
     </LinearLayout>
 
 

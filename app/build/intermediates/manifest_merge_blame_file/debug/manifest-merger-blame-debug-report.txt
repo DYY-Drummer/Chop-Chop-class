@@ -12,11 +12,11 @@
 10
 11    <!-- 添加权限 -->
 12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-12-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:106:5-97
-12-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:106:22-78
+12-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:109:5-97
+12-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:109:22-78
 13
 14    <application
-14-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:5:5-103:19
+14-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:5:5-106:19
 15        android:allowBackup="true"
 15-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:6:9-35
 16        android:debuggable="true"
@@ -58,116 +58,122 @@
 36            android:label="@string/app_name" >
 36-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:26:13-45
 37        </activity>
-38
-39        <!-- <activity -->
-40        <!-- android:name="com.topelec.smarthome.MainActivity" -->
-41        <!-- android:configChanges="orientation|keyboardHidden|screenSize" -->
-42        <!-- android:theme="@style/FullscreenTheme"> -->
-43        <!-- <intent-filter> -->
-44        <!-- <action android:name="com.topelec.smarthome.ACTION_SMARTHOME" /> -->
-45
-46
-47        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
-48        <!-- </intent-filter> -->
-49        <!-- </activity> -->
-50        <!-- <activity android:name="com.topelec.smarthome.Settings" /> -->
-51        <!-- <activity android:name="com.topelec.smartagriculture.MainActivity"> -->
-52        <!-- <intent-filter> -->
-53        <!-- <action android:name="com.topelec.smartagriculture.ACTION_AGRICULTURE" /> -->
-54
-55
-56        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
-57        <!-- </intent-filter> -->
-58        <!-- </activity> -->
-59        <!-- <activity android:name="com.topelec.smartagriculture.SmartAgricultureSettings" /> -->
-60        <!-- <activity android:name="com.topelec.foodtraceability.QueryActivity"> -->
-61        <!-- <intent-filter> -->
-62        <!-- <action android:name="com.topelec.foodtraceability.ACTION_FOODTRACEABILITY" /> -->
-63
-64
-65        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
-66        <!-- </intent-filter> -->
-67        <!-- </activity> -->
-68        <!-- <activity android:name="com.topelec.foodtraceability.SettingsActivity" /> -->
-69        <!-- <activity android:name="com.topelec.buscard.CardActivityGroup"> -->
-70        <!-- <intent-filter> -->
-71        <!-- <action android:name="com.topelec.buscard.ACTION_BUSCARD" /> -->
-72
-73
-74        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
-75        <!-- </intent-filter> -->
-76        <!-- </activity> -->
-77        <!-- <activity android:name="com.topelec.buscard.RechargeActivity" /> -->
-78        <!-- <activity android:name="com.topelec.buscard.ResumeActivity" /> -->
-79
-80
-81        <!-- <activity -->
-82        <!-- android:name="com.topelec.sensortest.zigbeetest" -->
-83        <!-- android:configChanges="orientation|keyboardHidden|screenSize" -->
-84        <!-- android:label="@string/title_activity_zigbeetest" -->
-85        <!-- android:theme="@style/FullscreenTheme"> -->
-86        <!-- <intent-filter> -->
-87        <!-- <action android:name="com.topelec.sensortest.ACTION_ZIGBEE" /> -->
-88
-89
-90        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
-91        <!-- </intent-filter> -->
-92        <!-- </activity> -->
-93
-94
-95        <!-- &lt;!&ndash;智能家居实验墙&ndash;&gt; -->
-96        <!-- <activity android:name="com.topelec.smarthomewall.SmarthomeWallActivity"> -->
-97        <!-- <intent-filter> -->
-98        <!-- <action android:name="android.intent.action.MAIN" /> -->
-99
-100
-101        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
-102        <!-- </intent-filter> -->
-103        <!-- </activity> -->
-104        <!-- <activity -->
-105        <!-- android:name="com.topelec.smarthomewall.SettingsSmarthomewall" -->
-106        <!-- android:label="@string/title_activity_settings_smarthomewall"></activity> -->
-107
-108        <receiver android:name="com.controller.BootReceiver" >
-108-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:96:9-102:20
-108-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:96:19-61
-109            <intent-filter>
-109-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:97:13-101:29
+38        <activity
+38-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:28:9-31:20
+39            android:name="com.controller.airconditionActivity"
+39-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:29:13-49
+40            android:label="@string/app_name" >
+40-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:30:13-45
+41        </activity>
+42        <!-- <activity -->
+43        <!-- android:name="com.topelec.smarthome.MainActivity" -->
+44        <!-- android:configChanges="orientation|keyboardHidden|screenSize" -->
+45        <!-- android:theme="@style/FullscreenTheme"> -->
+46        <!-- <intent-filter> -->
+47        <!-- <action android:name="com.topelec.smarthome.ACTION_SMARTHOME" /> -->
+48
+49
+50        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+51        <!-- </intent-filter> -->
+52        <!-- </activity> -->
+53        <!-- <activity android:name="com.topelec.smarthome.Settings" /> -->
+54        <!-- <activity android:name="com.topelec.smartagriculture.MainActivity"> -->
+55        <!-- <intent-filter> -->
+56        <!-- <action android:name="com.topelec.smartagriculture.ACTION_AGRICULTURE" /> -->
+57
+58
+59        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+60        <!-- </intent-filter> -->
+61        <!-- </activity> -->
+62        <!-- <activity android:name="com.topelec.smartagriculture.SmartAgricultureSettings" /> -->
+63        <!-- <activity android:name="com.topelec.foodtraceability.QueryActivity"> -->
+64        <!-- <intent-filter> -->
+65        <!-- <action android:name="com.topelec.foodtraceability.ACTION_FOODTRACEABILITY" /> -->
+66
+67
+68        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+69        <!-- </intent-filter> -->
+70        <!-- </activity> -->
+71        <!-- <activity android:name="com.topelec.foodtraceability.SettingsActivity" /> -->
+72        <!-- <activity android:name="com.topelec.buscard.CardActivityGroup"> -->
+73        <!-- <intent-filter> -->
+74        <!-- <action android:name="com.topelec.buscard.ACTION_BUSCARD" /> -->
+75
+76
+77        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+78        <!-- </intent-filter> -->
+79        <!-- </activity> -->
+80        <!-- <activity android:name="com.topelec.buscard.RechargeActivity" /> -->
+81        <!-- <activity android:name="com.topelec.buscard.ResumeActivity" /> -->
+82
+83
+84        <!-- <activity -->
+85        <!-- android:name="com.topelec.sensortest.zigbeetest" -->
+86        <!-- android:configChanges="orientation|keyboardHidden|screenSize" -->
+87        <!-- android:label="@string/title_activity_zigbeetest" -->
+88        <!-- android:theme="@style/FullscreenTheme"> -->
+89        <!-- <intent-filter> -->
+90        <!-- <action android:name="com.topelec.sensortest.ACTION_ZIGBEE" /> -->
+91
+92
+93        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+94        <!-- </intent-filter> -->
+95        <!-- </activity> -->
+96
+97
+98        <!-- &lt;!&ndash;智能家居实验墙&ndash;&gt; -->
+99        <!-- <activity android:name="com.topelec.smarthomewall.SmarthomeWallActivity"> -->
+100        <!-- <intent-filter> -->
+101        <!-- <action android:name="android.intent.action.MAIN" /> -->
+102
+103
+104        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+105        <!-- </intent-filter> -->
+106        <!-- </activity> -->
+107        <!-- <activity -->
+108        <!-- android:name="com.topelec.smarthomewall.SettingsSmarthomewall" -->
+109        <!-- android:label="@string/title_activity_settings_smarthomewall"></activity> -->
 110
-111                <!-- 系统启动完成后会调用 -->
-112                <action android:name="android.intent.action.BOOT_COMPLETED" >
-112-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:99:17-100:26
-112-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:99:25-76
-113                </action>
-114            </intent-filter>
-115        </receiver>
-116
-117        <activity
-117-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:9-172
-118            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-118-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:19-85
-119            android:exported="false"
-119-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:146-170
-120            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-120-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:86-145
-121
-122        <provider
-122-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:9-175
-123            android:name="com.google.firebase.provider.FirebaseInitProvider"
-123-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:79-124
-124            android:authorities="it.moondroid.coverflowdemo.firebaseinitprovider"
-124-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:19-78
-125            android:exported="false"
-125-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:125-149
-126            android:initOrder="100" />
-126-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:150-173
-127
-128        <meta-data
-128-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:20:9-121
-129            android:name="com.google.android.gms.version"
-129-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:20:20-65
-130            android:value="@integer/google_play_services_version" />
-130-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:20:66-119
-131    </application>
-132
-133</manifest>
+111        <receiver android:name="com.controller.BootReceiver" >
+111-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:99:9-105:20
+111-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:99:19-61
+112            <intent-filter>
+112-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:100:13-104:29
+113
+114                <!-- 系统启动完成后会调用 -->
+115                <action android:name="android.intent.action.BOOT_COMPLETED" >
+115-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:102:17-103:26
+115-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:102:25-76
+116                </action>
+117            </intent-filter>
+118        </receiver>
+119
+120        <activity
+120-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:9-172
+121            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+121-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:19-85
+122            android:exported="false"
+122-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:146-170
+123            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+123-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:86-145
+124
+125        <provider
+125-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:9-175
+126            android:name="com.google.firebase.provider.FirebaseInitProvider"
+126-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:79-124
+127            android:authorities="it.moondroid.coverflowdemo.firebaseinitprovider"
+127-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:19-78
+128            android:exported="false"
+128-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:125-149
+129            android:initOrder="100" />
+129-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:150-173
+130
+131        <meta-data
+131-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:20:9-121
+132            android:name="com.google.android.gms.version"
+132-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:20:20-65
+133            android:value="@integer/google_play_services_version" />
+133-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:20:66-119
+134    </application>
+135
+136</manifest>
