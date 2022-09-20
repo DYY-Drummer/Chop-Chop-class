@@ -21,6 +21,10 @@
             android:name=".temperature_monitorActivity"
             android:label="@string/app_name">
         </activity>
+        <activity
+            android:name=".cardActivity"
+            android:label="@string/app_name">
+        </activity>
 
 <!--         <activity-->
 <!--         android:name="com.topelec.smarthome.MainActivity"-->

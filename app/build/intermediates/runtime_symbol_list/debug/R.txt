@@ -605,6 +605,7 @@ int drawable buscard_symbol_right 0x7f070048
 int drawable buscard_symbol_wrong 0x7f070049
 int drawable button_background 0x7f07004a
 int drawable button_cancle 0x7f07004b
+int drawable card_background 0x7f0700a9
 int drawable chop_chop_logo 0x7f07004c
 int drawable clr_normal 0x7f07004d
 int drawable clr_pressed 0x7f07004e
@@ -694,6 +695,7 @@ int drawable smarthomewall_locked_background 0x7f0700a1
 int drawable smarthomewall_notpass 0x7f0700a2
 int drawable smarthomewall_pass 0x7f0700a3
 int drawable snackbar_background 0x7f0700a4
+int drawable student_card 0x7f0700aa
 int drawable temperature 0x7f0700a5
 int drawable temperature_background 0x7f0700a6
 int drawable temperature_monitor 0x7f0700a7
@@ -752,8 +754,8 @@ int id buscard_back 0x7f080032
 int id button5 0x7f080033
 int id button6 0x7f080034
 int id button7 0x7f080035
-int id button8 0x7f080036
 int id buttonPanel 0x7f080037
+int id button_card 0x7f080101
 int id button_temperature 0x7f080038
 int id camera_button 0x7f080039
 int id cancel_action 0x7f08003a
@@ -880,6 +882,7 @@ int id resume_idView 0x7f0800b2
 int id resume_radio 0x7f0800b3
 int id resume_statusView 0x7f0800b4
 int id resume_sumView 0x7f0800b5
+int id return_card 0x7f080103
 int id return_temperature 0x7f0800b6
 int id rfc822 0x7f0800b7
 int id right 0x7f0800b8
@@ -934,7 +937,6 @@ int id text2 0x7f0800e8
 int id textSpacerNoButtons 0x7f0800e9
 int id textView 0x7f0800ea
 int id textView2 0x7f0800eb
-int id textView3 0x7f0800ec
 int id textView5 0x7f0800ed
 int id thing_proto 0x7f0800ee
 int id time 0x7f0800ef
@@ -947,6 +949,7 @@ int id topPanel 0x7f0800f5
 int id up 0x7f0800f6
 int id url 0x7f0800f7
 int id useLogo 0x7f0800f8
+int id value_temperature 0x7f080102
 int id view_offset_helper 0x7f0800f9
 int id waterView 0x7f0800fa
 int id wide 0x7f0800fb
@@ -987,6 +990,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0a0015
 int layout abc_search_view 0x7f0a0016
 int layout abc_select_dialog_material 0x7f0a0017
 int layout abc_simple_dropdown_hint 0x7f0a0018
+int layout activity_card 0x7f0a003d
 int layout activity_card_activity_group 0x7f0a0019
 int layout activity_coverflow 0x7f0a001a
 int layout activity_fullscreen 0x7f0a001b

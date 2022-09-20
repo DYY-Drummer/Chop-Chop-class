@@ -15,7 +15,7 @@
         android:src="@drawable/temperature_monitor" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/value_temperature"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:shadowColor="#E3367A"

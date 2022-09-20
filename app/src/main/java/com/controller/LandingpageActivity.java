@@ -12,6 +12,7 @@ import com.controller.R;
 
 public class LandingpageActivity extends AppCompatActivity {
     private Button button_temperature;
+    private Button button_card;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,11 +24,26 @@ public class LandingpageActivity extends AppCompatActivity {
                 open_temperatureMonitor();
             }
         });
+
+        button_card=(Button) findViewById(R.id.button_card);
+        button_card.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                open_card();
+            }
+        });
+
     }
     public void open_temperatureMonitor(){
         Intent intent = new Intent(this,temperature_monitorActivity.class);
         startActivity(intent);
     }
+
+    public void open_card(){
+            Intent intent= new Intent(this,cardActivity.class);
+            startActivity(intent);
+    }
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.

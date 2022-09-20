@@ -606,6 +606,7 @@ drawable buscard_symbol_right
 drawable buscard_symbol_wrong
 drawable button_background
 drawable button_cancle
+drawable card_background
 drawable chop_chop_logo
 drawable clr_normal
 drawable clr_pressed
@@ -695,6 +696,7 @@ drawable smarthomewall_locked_background
 drawable smarthomewall_notpass
 drawable smarthomewall_pass
 drawable snackbar_background
+drawable student_card
 drawable temperature
 drawable temperature_background
 drawable temperature_monitor
@@ -753,8 +755,8 @@ id buscard_back
 id button5
 id button6
 id button7
-id button8
 id buttonPanel
+id button_card
 id button_temperature
 id camera_button
 id cancel_action
@@ -881,6 +883,7 @@ id resume_idView
 id resume_radio
 id resume_statusView
 id resume_sumView
+id return_card
 id return_temperature
 id rfc822
 id right
@@ -935,7 +938,6 @@ id text2
 id textSpacerNoButtons
 id textView
 id textView2
-id textView3
 id textView5
 id thing_proto
 id time
@@ -948,6 +950,7 @@ id topPanel
 id up
 id url
 id useLogo
+id value_temperature
 id view_offset_helper
 id waterView
 id wide
@@ -988,6 +991,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_simple_dropdown_hint
+layout activity_card
 layout activity_card_activity_group
 layout activity_coverflow
 layout activity_fullscreen

@@ -16,6 +16,7 @@
         android:debuggable="true"
         android:icon="@mipmap/icon"
         android:label="@string/app_name"
+        android:testOnly="true"
         android:theme="@style/AppTheme.NoActionBar" >
         <activity
             android:name="com.controller.LandingpageActivity"
@@ -28,6 +29,10 @@
         </activity>
         <activity
             android:name="com.controller.temperature_monitorActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.controller.cardActivity"
             android:label="@string/app_name" >
         </activity>
 
