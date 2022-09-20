@@ -55,8 +55,8 @@
             android:layout_height="150dp"
             android:background="@drawable/button_background"
             android:text="温 度 监 控"
-            android:textColor="#DFF4ED"
-            android:textSize="70px"
+            android:textColor="#596762"
+            android:textSize="65px"
             android:textStyle="bold"
             android:translationX="25dp" />
 
@@ -66,8 +66,8 @@
             android:layout_height="150dp"
             android:background="@drawable/button_background"
             android:text="投 影 系 统"
-            android:textColor="#DFF4ED"
-            android:textSize="70px"
+            android:textColor="#596762"
+            android:textSize="65px"
             android:textStyle="bold"
             android:translationX="230dp"
             android:translationY="-150dp" />
@@ -110,8 +110,8 @@
             android:layout_height="149dp"
             android:background="@drawable/button_background"
             android:text="考 勤 打 卡"
-            android:textColor="#DFF4ED"
-            android:textSize="70px"
+            android:textColor="#596762"
+            android:textSize="65px"
             android:textStyle="bold"
             android:translationX="25dp"
             android:translationY="0dp" />
@@ -122,8 +122,8 @@
             android:layout_height="150dp"
             android:background="@drawable/button_background"
             android:text="空  调"
-            android:textColor="#DFF4ED"
-            android:textSize="70px"
+            android:textColor="#596762"
+            android:textSize="65px"
             android:textStyle="bold"
             android:translationX="230dp"
             android:translationY="-150dp" />
