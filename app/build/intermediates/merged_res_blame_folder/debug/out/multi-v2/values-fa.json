@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\57486\\Desktop\\Chop-Chop-class\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fa\\values-fa.xml",
+            "outputFile": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fa\\values-fa.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\57486\\Desktop\\gradle-4.6-all\\bcst21l2brirad8k2ben1letg\\gradle-4.6\\caches\\transforms-2\\files-2.1\\e5daa3a4d7bb51962b6dc0d719dc5b45\\appcompat-v7-22.2.1\\res\\values-fa\\values-fa.xml",
+                    "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\1dbd717dc8cfb07b1696f2a13a8cc940\\play-services-base-9.8.0\\res\\values-fa\\values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "291,401,504,615,703,806,921,1033,1136,1234,1344,1447,1556",
-                        "endColumns": "109,102,110,87,102,114,111,102,97,109,102,108,124",
-                        "endOffsets": "396,499,610,698,801,916,1028,1131,1229,1339,1442,1551,1676"
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,389,580,709,810,1009,1135,1262,1474,1582,1785,1916,2130,2314,2406,2500",
+                        "endColumns": "105,190,128,100,198,125,126,211,107,202,130,213,183,91,93,109",
+                        "endOffsets": "388,579,708,809,1008,1134,1261,1473,1581,1784,1915,2129,2313,2405,2499,2609"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,215,318,429,517,620,735,847,950,1048,1158,1261,1370",
-                        "endColumns": "109,102,110,87,102,114,111,102,97,109,102,108,124",
-                        "endOffsets": "210,313,424,512,615,730,842,945,1043,1153,1256,1365,1490"
+                        "startLines": "15,16,17,18,19,20,21,23,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1495,1605,1796,1929,2034,2233,2363,2708,2920,3032,3235,3370,3584,3772,3868,3966",
+                        "endColumns": "109,190,132,104,198,129,130,211,111,202,134,213,187,95,97,113",
+                        "endOffsets": "1600,1791,1924,2029,2228,2358,2489,2915,3027,3230,3365,3579,3767,3863,3961,4075"
                     }
                 },
                 {
-                    "source": "C:\\Users\\57486\\Desktop\\gradle-4.6-all\\bcst21l2brirad8k2ben1letg\\gradle-4.6\\caches\\transforms-2\\files-2.1\\685a1723dde546d2ddae5f454ec9d62d\\play-services-basement-9.8.0\\res\\values-fa\\values.xml",
+                    "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\685a1723dde546d2ddae5f454ec9d62d\\play-services-basement-9.8.0\\res\\values-fa\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,20 +38,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\57486\\Desktop\\gradle-4.6-all\\bcst21l2brirad8k2ben1letg\\gradle-4.6\\caches\\transforms-2\\files-2.1\\1dbd717dc8cfb07b1696f2a13a8cc940\\play-services-base-9.8.0\\res\\values-fa\\values.xml",
+                    "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\e5daa3a4d7bb51962b6dc0d719dc5b45\\appcompat-v7-22.2.1\\res\\values-fa\\values-fa.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "283,389,580,709,810,1009,1135,1262,1474,1582,1785,1916,2130,2314,2406,2500",
-                        "endColumns": "105,190,128,100,198,125,126,211,107,202,130,213,183,91,93,109",
-                        "endOffsets": "388,579,708,809,1008,1134,1261,1473,1581,1784,1915,2129,2313,2405,2499,2609"
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "291,401,504,615,703,806,921,1033,1136,1234,1344,1447,1556",
+                        "endColumns": "109,102,110,87,102,114,111,102,97,109,102,108,124",
+                        "endOffsets": "396,499,610,698,801,916,1028,1131,1229,1339,1442,1551,1676"
                     },
                     "to": {
-                        "startLines": "15,16,17,18,19,20,21,23,24,25,26,27,28,29,30,31",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1495,1605,1796,1929,2034,2233,2363,2708,2920,3032,3235,3370,3584,3772,3868,3966",
-                        "endColumns": "109,190,132,104,198,129,130,211,111,202,134,213,187,95,97,113",
-                        "endOffsets": "1600,1791,1924,2029,2228,2358,2489,2915,3027,3230,3365,3579,3767,3863,3961,4075"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,318,429,517,620,735,847,950,1048,1158,1261,1370",
+                        "endColumns": "109,102,110,87,102,114,111,102,97,109,102,108,124",
+                        "endOffsets": "210,313,424,512,615,730,842,945,1043,1153,1256,1365,1490"
                     }
                 }
             ]

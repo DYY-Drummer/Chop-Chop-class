@@ -8,9 +8,9 @@ public class Command {
 
     public static final int CHECK_SENSOR_DELAY = 1500;
     public static final String zigbeePort = "/dev/ttyAMA2";
-    public static final String lfRfidPort = "/dev/ttyAMA2";
-    public static final String hfRfidPort = "/dev/ttyAMA2";
-    public static final String uhfRfidPort = "/dev/ttyAMA2";
+    public static final String lfRfidPort = "/dev/ttyAMA3";
+    public static final String hfRfidPort = "/dev/ttyAMA3";
+    public static final String uhfRfidPort = "/dev/ttyAMA3";
     public static final int bautrate = 115200;
     public static final int lfBautrate = 9600;
     public static final int hfBautrate = 19200;

@@ -6,64 +6,64 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="22"
-8-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml
+8-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="22" />
-9-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml
+9-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml
 10
 11    <!-- 添加权限 -->
 12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-12-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:109:5-97
-12-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:109:22-78
+12-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:109:5-97
+12-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:109:22-78
 13
 14    <application
-14-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:5:5-106:19
+14-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:5:5-106:19
 15        android:allowBackup="true"
-15-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:6:9-35
+15-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:6:9-35
 16        android:debuggable="true"
 17        android:icon="@mipmap/icon"
-17-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:7:9-36
+17-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:7:9-36
 18        android:label="@string/app_name"
-18-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:8:9-41
+18-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:8:9-41
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme.NoActionBar" >
-20-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:9:9-52
+20-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:9:9-52
 21        <activity
-21-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:12:10-19:21
+21-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:12:10-19:21
 22            android:name="com.controller.LandingpageActivity"
-22-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:13:10-45
+22-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:13:10-45
 23            android:label="@string/app_name" >
-23-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:14:10-42
+23-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:14:10-42
 24            <intent-filter>
-24-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:15:10-18:26
+24-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:15:10-18:26
 25                <action android:name="android.intent.action.MAIN" />
-25-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:16:10-62
-25-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:16:18-59
+25-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:16:10-62
+25-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:16:18-59
 26
 27                <category android:name="android.intent.category.LAUNCHER" />
-27-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:17:10-70
-27-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:17:20-67
+27-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:17:10-70
+27-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:17:20-67
 28            </intent-filter>
 29        </activity>
 30        <activity
-30-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:20:9-23:20
+30-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:20:9-23:20
 31            android:name="com.controller.temperature_monitorActivity"
-31-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:21:13-56
+31-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:21:13-56
 32            android:label="@string/app_name" >
-32-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:22:13-45
+32-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:22:13-45
 33        </activity>
 34        <activity
-34-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:24:9-27:20
+34-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:24:9-27:20
 35            android:name="com.controller.cardActivity"
-35-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:25:13-41
+35-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:25:13-41
 36            android:label="@string/app_name" >
-36-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:26:13-45
+36-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:26:13-45
 37        </activity>
 38        <activity
-38-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:28:9-31:20
+38-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:28:9-31:20
 39            android:name="com.controller.airconditionActivity"
-39-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:29:13-49
+39-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:29:13-49
 40            android:label="@string/app_name" >
-40-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:30:13-45
+40-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:30:13-45
 41        </activity>
 42        <!-- <activity -->
 43        <!-- android:name="com.topelec.smarthome.MainActivity" -->
@@ -135,45 +135,45 @@
 109        <!-- android:label="@string/title_activity_settings_smarthomewall"></activity> -->
 110
 111        <receiver android:name="com.controller.BootReceiver" >
-111-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:99:9-105:20
-111-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:99:19-61
+111-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:99:9-105:20
+111-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:99:19-61
 112            <intent-filter>
-112-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:100:13-104:29
+112-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:100:13-104:29
 113
 114                <!-- 系统启动完成后会调用 -->
 115                <action android:name="android.intent.action.BOOT_COMPLETED" >
-115-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:102:17-103:26
-115-->C:\Users\57486\Desktop\Chop-Chop-class\app\src\main\AndroidManifest.xml:102:25-76
+115-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:102:17-103:26
+115-->E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:102:25-76
 116                </action>
 117            </intent-filter>
 118        </receiver>
 119
 120        <activity
-120-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:9-172
+120-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:9-172
 121            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-121-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:19-85
+121-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:19-85
 122            android:exported="false"
-122-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:146-170
+122-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:146-170
 123            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-123-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:86-145
+123-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\1dbd717dc8cfb07b1696f2a13a8cc940\play-services-base-9.8.0\AndroidManifest.xml:19:86-145
 124
 125        <provider
-125-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:9-175
+125-->[com.google.firebase:firebase-common:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:9-175
 126            android:name="com.google.firebase.provider.FirebaseInitProvider"
-126-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:79-124
+126-->[com.google.firebase:firebase-common:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:79-124
 127            android:authorities="it.moondroid.coverflowdemo.firebaseinitprovider"
-127-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:19-78
+127-->[com.google.firebase:firebase-common:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:19-78
 128            android:exported="false"
-128-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:125-149
+128-->[com.google.firebase:firebase-common:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:125-149
 129            android:initOrder="100" />
-129-->[com.google.firebase:firebase-common:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:150-173
+129-->[com.google.firebase:firebase-common:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\625ded09c2ec98c6de9f4ca82c4425fc\firebase-common-9.8.0\AndroidManifest.xml:6:150-173
 130
 131        <meta-data
-131-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:20:9-121
+131-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:20:9-121
 132            android:name="com.google.android.gms.version"
-132-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:20:20-65
+132-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:20:20-65
 133            android:value="@integer/google_play_services_version" />
-133-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\57486\Desktop\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:20:66-119
+133-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:20:66-119
 134    </application>
 135
 136</manifest>

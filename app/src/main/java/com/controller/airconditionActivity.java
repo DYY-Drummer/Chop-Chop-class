@@ -2,7 +2,10 @@ package com.controller;
 
 import android.app.Dialog;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.preference.CheckBoxPreference;
+import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,10 +14,18 @@ import android.widget.CompoundButton;
 import android.widget.Switch;
 import android.widget.Toast;
 
+import android.os.Bundle;
+import android.preference.CheckBoxPreference;
+import android.preference.EditTextPreference;
+import android.preference.Preference;
+import android.preference.PreferenceActivity;
+
 public class airconditionActivity extends AppCompatActivity {
     private Button return_button;
     private Switch auto;
     private Dialog dialog;
+    public static boolean tempAutoSwitch;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -48,10 +59,14 @@ public class airconditionActivity extends AppCompatActivity {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
                 dialog.show();
+
                 if(isChecked){
                     //TODO:自动打开空调设置
+                    tempAutoSwitch = true;
+
                 }else{
                     //TODO:取消自动控制
+                    tempAutoSwitch = false;
                 }
             }
         });

@@ -32,4 +32,6 @@
             android:summaryOn="关闭灯光自动管理"
             android:title="灯光自动控制"></CheckBoxPreference>
     </PreferenceCategory>
+
+
 </PreferenceScreen>
