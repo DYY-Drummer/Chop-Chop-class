@@ -737,10 +737,10 @@ int id beginning 0x7f080017
 int id bottom 0x7f080018
 int id btnBack 0x7f080019
 int id btn_okay 0x7f08001a
-int id button6 0x7f08001c
 int id buttonPanel 0x7f08001d
 int id button_aircondition 0x7f08001e
 int id button_card 0x7f08001f
+int id button_course 0x7f0800c1
 int id button_projector 0x7f0800bc
 int id button_temperature 0x7f080020
 int id cancel_action 0x7f080021

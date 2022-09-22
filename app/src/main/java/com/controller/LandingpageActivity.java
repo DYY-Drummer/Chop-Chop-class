@@ -15,6 +15,7 @@ public class LandingpageActivity extends AppCompatActivity {
     private Button button_card;
     private Button button_aircondition;
     private Button button_projector;
+    private Button button_course;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -48,6 +49,15 @@ public class LandingpageActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 open_projector();
+            }
+        });
+
+        button_course=(Button) findViewById(R.id.button_course);
+        button_course.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                projectorActivity.projector_on=true;
+                //TODO:开启空调和投影仪
             }
         });
 

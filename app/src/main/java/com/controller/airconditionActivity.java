@@ -55,6 +55,9 @@ public class airconditionActivity extends AppCompatActivity {
         });
 
         auto=(Switch) findViewById(R.id.switch_auto_condition);
+        if(tempAutoSwitch){
+            auto.setChecked(true);
+        }
         auto.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
@@ -70,6 +73,7 @@ public class airconditionActivity extends AppCompatActivity {
                 }
             }
         });
+
 
 
     }

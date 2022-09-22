@@ -738,10 +738,10 @@ id beginning
 id bottom
 id btnBack
 id btn_okay
-id button6
 id buttonPanel
 id button_aircondition
 id button_card
+id button_course
 id button_projector
 id button_temperature
 id cancel_action

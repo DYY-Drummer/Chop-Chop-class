@@ -1,5 +1,8 @@
-com/topelec/zigbeecontrol/Command.java
- com.topelec.zigbeecontrol.Command
+com/controller/projectorActivity.java
+ com.controller.projectorActivity
+ com.controller.projectorActivity$1
+ com.controller.projectorActivity$2
+ com.controller.projectorActivity$3
 realarm/hardware/CanFrame.java
  realarm.hardware.CanFrame
 com/controller/BuildConfig.java
@@ -8,6 +11,13 @@ com/controller/BootReceiver.java
  com.controller.BootReceiver
 realarm/hardware/HardwareControl.java
  realarm.hardware.HardwareControl
+com/controller/cardActivity.java
+ com.controller.cardActivity
+ com.controller.cardActivity$1
+com/topelec/zigbeecontrol/NewSensorControl.java
+ com.topelec.zigbeecontrol.NewSensorControl
+com/topelec/zigbeecontrol/Command.java
+ com.topelec.zigbeecontrol.Command
 com/topelec/zigbeecontrol/SensorControl.java
  com.topelec.zigbeecontrol.SensorControl
  com.topelec.zigbeecontrol.SensorControl$1
@@ -25,11 +35,6 @@ com/topelec/zigbeecontrol/SensorControl.java
  com.topelec.zigbeecontrol.SensorControl$ShakeSensorListener
  com.topelec.zigbeecontrol.SensorControl$SmokeSensorListener
  com.topelec.zigbeecontrol.SensorControl$TempHumListener
-com/topelec/zigbeecontrol/NewSensorControl.java
- com.topelec.zigbeecontrol.NewSensorControl
-com/controller/cardActivity.java
- com.controller.cardActivity
- com.controller.cardActivity$1
 com/controller/temperature_monitorActivity.java
  com.controller.temperature_monitorActivity
  com.controller.temperature_monitorActivity$1
@@ -40,14 +45,10 @@ com/controller/airconditionActivity.java
  com.controller.airconditionActivity$1
  com.controller.airconditionActivity$2
  com.controller.airconditionActivity$3
-com/controller/projectorActivity.java
- com.controller.projectorActivity
- com.controller.projectorActivity$1
- com.controller.projectorActivity$2
- com.controller.projectorActivity$3
 com/controller/LandingpageActivity.java
  com.controller.LandingpageActivity
  com.controller.LandingpageActivity$1
  com.controller.LandingpageActivity$2
  com.controller.LandingpageActivity$3
  com.controller.LandingpageActivity$4
+ com.controller.LandingpageActivity$5
