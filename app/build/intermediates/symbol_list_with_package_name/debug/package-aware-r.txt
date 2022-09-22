@@ -636,6 +636,8 @@ drawable common_google_signin_btn_text_light_pressed
 drawable course_icon
 drawable cover_selector
 drawable dialog_label
+drawable eye_invisible
+drawable eye_visible
 drawable fab_background
 drawable foodtraceability_background
 drawable foodtraceability_check_wrong
@@ -662,6 +664,10 @@ drawable image_4
 drawable image_5
 drawable label_background
 drawable notification_template_icon_bg
+drawable power_close
+drawable power_open
+drawable projector
+drawable projector_background
 drawable return_icon
 drawable rounded_rectangle
 drawable seek_image
@@ -732,11 +738,11 @@ id beginning
 id bottom
 id btnBack
 id btn_okay
-id button5
 id button6
 id buttonPanel
 id button_aircondition
 id button_card
+id button_projector
 id button_temperature
 id cancel_action
 id card_title
@@ -824,11 +830,15 @@ id parallax
 id parentPanel
 id pin
 id plain
+id power_close
+id power_open
 id progress_circular
 id progress_horizontal
+id projector_visibility
 id radio
 id return_aircondition
 id return_card
+id return_projector
 id return_temperature
 id rfc822
 id right
@@ -928,6 +938,7 @@ layout abc_simple_dropdown_hint
 layout activity_air_condition
 layout activity_card
 layout activity_landingpage
+layout activity_projector
 layout activity_temperature_monitor
 layout activity_zigbeetest
 layout custom_dialog_layout

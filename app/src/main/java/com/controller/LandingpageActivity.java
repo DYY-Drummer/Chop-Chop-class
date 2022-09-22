@@ -14,6 +14,7 @@ public class LandingpageActivity extends AppCompatActivity {
     private Button button_temperature;
     private Button button_card;
     private Button button_aircondition;
+    private Button button_projector;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -41,6 +42,15 @@ public class LandingpageActivity extends AppCompatActivity {
                 open_aircondition();
             }
         });
+
+        button_projector=(Button) findViewById(R.id.button_projector);
+        button_projector.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                open_projector();
+            }
+        });
+
     }
     public void open_temperatureMonitor(){
         Intent intent = new Intent(this,temperature_monitorActivity.class);
@@ -53,6 +63,10 @@ public class LandingpageActivity extends AppCompatActivity {
     }
     public void open_aircondition(){
         Intent intent= new Intent(this,airconditionActivity.class);
+        startActivity(intent);
+    }
+    public void open_projector(){
+        Intent intent=new Intent(this,projectorActivity.class);
         startActivity(intent);
     }
     @Override

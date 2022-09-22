@@ -635,6 +635,8 @@ int drawable common_google_signin_btn_text_light_pressed 0x7f070066
 int drawable course_icon 0x7f070067
 int drawable cover_selector 0x7f070068
 int drawable dialog_label 0x7f070069
+int drawable eye_invisible 0x7f0700b1
+int drawable eye_visible 0x7f0700b2
 int drawable fab_background 0x7f07006a
 int drawable foodtraceability_background 0x7f07006b
 int drawable foodtraceability_check_wrong 0x7f07006c
@@ -661,6 +663,10 @@ int drawable image_4 0x7f070080
 int drawable image_5 0x7f070081
 int drawable label_background 0x7f070082
 int drawable notification_template_icon_bg 0x7f070083
+int drawable power_close 0x7f0700b3
+int drawable power_open 0x7f0700b4
+int drawable projector 0x7f0700b0
+int drawable projector_background 0x7f0700af
 int drawable return_icon 0x7f070084
 int drawable rounded_rectangle 0x7f070085
 int drawable seek_image 0x7f070086
@@ -731,11 +737,11 @@ int id beginning 0x7f080017
 int id bottom 0x7f080018
 int id btnBack 0x7f080019
 int id btn_okay 0x7f08001a
-int id button5 0x7f08001b
 int id button6 0x7f08001c
 int id buttonPanel 0x7f08001d
 int id button_aircondition 0x7f08001e
 int id button_card 0x7f08001f
+int id button_projector 0x7f0800bc
 int id button_temperature 0x7f080020
 int id cancel_action 0x7f080021
 int id card_title 0x7f080022
@@ -823,11 +829,15 @@ int id parallax 0x7f080073
 int id parentPanel 0x7f080074
 int id pin 0x7f080075
 int id plain 0x7f080076
+int id power_close 0x7f0800bf
+int id power_open 0x7f0800c0
 int id progress_circular 0x7f080077
 int id progress_horizontal 0x7f080078
+int id projector_visibility 0x7f0800be
 int id radio 0x7f080079
 int id return_aircondition 0x7f08007a
 int id return_card 0x7f08007b
+int id return_projector 0x7f0800bd
 int id return_temperature 0x7f08007c
 int id rfc822 0x7f08007d
 int id right 0x7f08007e
@@ -927,6 +937,7 @@ int layout abc_simple_dropdown_hint 0x7f0a0018
 int layout activity_air_condition 0x7f0a0019
 int layout activity_card 0x7f0a001a
 int layout activity_landingpage 0x7f0a001b
+int layout activity_projector 0x7f0a0034
 int layout activity_temperature_monitor 0x7f0a001c
 int layout activity_zigbeetest 0x7f0a001d
 int layout custom_dialog_layout 0x7f0a001e

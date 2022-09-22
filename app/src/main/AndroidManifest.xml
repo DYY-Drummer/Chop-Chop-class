@@ -29,6 +29,10 @@
             android:name=".airconditionActivity"
             android:label="@string/app_name">
         </activity>
+        <activity
+            android:name=".projectorActivity"
+            android:label="@string/app_name">
+        </activity>
 <!--         <activity-->
 <!--         android:name="com.topelec.smarthome.MainActivity"-->
 <!--         android:configChanges="orientation|keyboardHidden|screenSize"-->

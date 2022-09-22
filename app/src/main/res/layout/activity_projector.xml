@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/projector_background">
+    <Button
+        android:id="@+id/return_projector"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:background="@drawable/return_icon"
+        android:translationX="10dp"
+        android:translationY="10dp" />
+    <ImageView
+        android:layout_width="600dp"
+        android:layout_height="600dp"
+        android:translationY="200dp"
+        android:translationX="10dp"
+        android:src="@drawable/projector">
+    </ImageView>
+    <ImageView
+        android:id="@+id/projector_visibility"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:translationY="250dp"
+        android:translationX="160dp"
+        android:src="@drawable/eye_invisible">
+    </ImageView>
+    <Button
+        android:id="@+id/power_open"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:translationY="750dp"
+        android:translationX="100dp"
+        android:background="@drawable/power_open">
+    </Button>
+    <Button
+        android:id="@+id/power_close"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:translationY="750dp"
+        android:translationX="360dp"
+        android:background="@drawable/power_close">
+    </Button>
+
+
+</RelativeLayout>
