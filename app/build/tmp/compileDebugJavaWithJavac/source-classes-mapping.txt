@@ -9,6 +9,33 @@ com/controller/temperature_monitorActivity.java
  com.controller.temperature_monitorActivity$3
 com/topelec/zigbeecontrol/Command.java
  com.topelec.zigbeecontrol.Command
+com/database/DatabaseHelper.java
+ com.database.DatabaseHelper
+com/controller/airconditionActivity.java
+ com.controller.airconditionActivity
+ com.controller.airconditionActivity$1
+ com.controller.airconditionActivity$2
+ com.controller.airconditionActivity$3
+com/controller/cardActivity.java
+ com.controller.cardActivity
+ com.controller.cardActivity$1
+ com.controller.cardActivity$2
+ com.controller.cardActivity$3
+com/topelec/rfidcontrol/ModulesControl.java
+ com.topelec.rfidcontrol.ModulesControl
+ com.topelec.rfidcontrol.ModulesControl$1
+ com.topelec.rfidcontrol.ModulesControl$HFReadThread
+ com.topelec.rfidcontrol.ModulesControl$HFWriteThread
+ com.topelec.rfidcontrol.ModulesControl$LFReadThread
+ com.topelec.rfidcontrol.ModulesControl$LFWriteThread
+ com.topelec.rfidcontrol.ModulesControl$UHFReadThread
+ com.topelec.rfidcontrol.ModulesControl$UHFWriteThread
+com/controller/BuildConfig.java
+ com.controller.BuildConfig
+realarm/hardware/HardwareControl.java
+ realarm.hardware.HardwareControl
+com/topelec/zigbeecontrol/NewSensorControl.java
+ com.topelec.zigbeecontrol.NewSensorControl
 com/topelec/zigbeecontrol/SensorControl.java
  com.topelec.zigbeecontrol.SensorControl
  com.topelec.zigbeecontrol.SensorControl$1
@@ -26,33 +53,11 @@ com/topelec/zigbeecontrol/SensorControl.java
  com.topelec.zigbeecontrol.SensorControl$ShakeSensorListener
  com.topelec.zigbeecontrol.SensorControl$SmokeSensorListener
  com.topelec.zigbeecontrol.SensorControl$TempHumListener
-com/controller/airconditionActivity.java
- com.controller.airconditionActivity
- com.controller.airconditionActivity$1
- com.controller.airconditionActivity$2
- com.controller.airconditionActivity$3
-com/topelec/rfidcontrol/ModulesControl.java
- com.topelec.rfidcontrol.ModulesControl
- com.topelec.rfidcontrol.ModulesControl$1
- com.topelec.rfidcontrol.ModulesControl$HFReadThread
- com.topelec.rfidcontrol.ModulesControl$HFWriteThread
- com.topelec.rfidcontrol.ModulesControl$LFReadThread
- com.topelec.rfidcontrol.ModulesControl$LFWriteThread
- com.topelec.rfidcontrol.ModulesControl$UHFReadThread
- com.topelec.rfidcontrol.ModulesControl$UHFWriteThread
 com/controller/projectorActivity.java
  com.controller.projectorActivity
  com.controller.projectorActivity$1
  com.controller.projectorActivity$2
  com.controller.projectorActivity$3
-com/controller/BuildConfig.java
- com.controller.BuildConfig
-realarm/hardware/HardwareControl.java
- realarm.hardware.HardwareControl
-com/topelec/zigbeecontrol/NewSensorControl.java
- com.topelec.zigbeecontrol.NewSensorControl
-com/database/DatabaseHelper.java
- com.database.DatabaseHelper
 com/controller/LandingpageActivity.java
  com.controller.LandingpageActivity
  com.controller.LandingpageActivity$1
@@ -60,8 +65,3 @@ com/controller/LandingpageActivity.java
  com.controller.LandingpageActivity$3
  com.controller.LandingpageActivity$4
  com.controller.LandingpageActivity$5
-com/controller/cardActivity.java
- com.controller.cardActivity
- com.controller.cardActivity$1
- com.controller.cardActivity$2
- com.controller.cardActivity$3

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\2022autumn\\IoT\\Chop-Chop-class-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\5d1101ac6c0aa27d74ab32aa73d1a083\\design-22.2.1\\res\\values-v21\\values-v21.xml",

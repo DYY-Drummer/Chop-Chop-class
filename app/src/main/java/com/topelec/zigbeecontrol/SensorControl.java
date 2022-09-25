@@ -557,8 +557,10 @@ public class SensorControl {
             while (!Thread.currentThread().isInterrupted()) {
                 synchronized (mOutputStream) {
                     try {
-                        if(sendingQueue.size() > 0)
+                        if(sendingQueue.size() > 0) {
                             mOutputStream.write(getQueueElement());
+                            Log.d(TAG, toHex(getQueueElement()));
+                        }
                     } catch (IOException e) {
                         e.printStackTrace();
                     }

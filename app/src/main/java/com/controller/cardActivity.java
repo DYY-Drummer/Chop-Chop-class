@@ -34,6 +34,8 @@ public class cardActivity extends AppCompatActivity {
     ModulesControl mModulesControl;
     Intent intent;
 
+    private String cur_student;
+
     /**数据库相关**/
     Context mContext;
     DatabaseHelper mDatabaseHelper;
@@ -162,6 +164,8 @@ public class cardActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_card);
 
+        cur_student = "";
+
         /**RFID传感器绑定**/
         mModulesControl = new ModulesControl(uiHandler);
         mModulesControl.actionControl(true);
@@ -258,7 +262,11 @@ public class cardActivity extends AppCompatActivity {
             showMsgPage(getResources().getString(R.string.buscard_search_more_than_one),"","");
 
         } else {  //返回打卡次数，更新UI
-            int newCount = Integer.valueOf((String) searchResult.get("count")) + 1;
+            int newCount = Integer.valueOf((String) searchResult.get("count"));
+            if (!CardId.equals(cur_student)) {
+                newCount++;
+                cur_student = CardId;
+            }
             if (Integer.toString(newCount).equals(updateHFCard(CARD_ID, CardId, COUNT, Integer.toString(newCount)))) {
                 showMsgPage((String) searchResult.get("stuid"), (String) searchResult.get("stuname"),Integer.toString(newCount));
             }

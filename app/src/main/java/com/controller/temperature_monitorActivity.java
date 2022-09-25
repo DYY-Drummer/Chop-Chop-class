@@ -195,4 +195,12 @@ public class temperature_monitorActivity extends AppCompatActivity implements
 
     }
 
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+
+        mSensorControl.removeMotorListener(this);
+        mSensorControl.removeTempHumListener(this);
+        mSensorControl.closeSerialDevice();
+    }
 }
