@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-115:12
-INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-115:12
-INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-115:12
-INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-115:12
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-117:12
+INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-117:12
+INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-117:12
+INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-117:12
 MERGED from [:lib] E:\2022autumn\IoT\Chop-Chop-class\lib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-14:12
 MERGED from [com.android.support:design:22.2.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\5d1101ac6c0aa27d74ab32aa73d1a083\design-22.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e5daa3a4d7bb51962b6dc0d719dc5b45\appcompat-v7-22.2.1\AndroidManifest.xml:17:1-24:12
@@ -13,25 +13,25 @@ MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\asus\.gradle\ca
 MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\22b515953b349f40e737fab1ea57d7b5\play-services-tasks-9.8.0\AndroidManifest.xml:2:1-5:12
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\685a1723dde546d2ddae5f454ec9d62d\play-services-basement-9.8.0\AndroidManifest.xml:16:1-23:12
 MERGED from [com.android.support:support-v4:24.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\4f9f08560ca79921222a0c248f87e100\support-v4-24.0.0\AndroidManifest.xml:17:1-27:12
-INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-115:12
-INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-115:12
-INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-115:12
+INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-117:12
+INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-117:12
+INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-117:12
 	package
 		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:3:5-29
 		INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml
 		INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-115:12
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-117:12
 		INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-115:12
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:1-117:12
 		INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:5:5-110:19
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:5:5-112:19
 MERGED from [:lib] E:\2022autumn\IoT\Chop-Chop-class\lib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-12:19
 MERGED from [:lib] E:\2022autumn\IoT\Chop-Chop-class\lib\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-12:19
 MERGED from [com.android.support:design:22.2.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\5d1101ac6c0aa27d74ab32aa73d1a083\design-22.2.1\AndroidManifest.xml:22:5-20
@@ -51,67 +51,71 @@ MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\asus\
 MERGED from [com.android.support:support-v4:24.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\4f9f08560ca79921222a0c248f87e100\support-v4-24.0.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\4f9f08560ca79921222a0c248f87e100\support-v4-24.0.0\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:10:9-41
+	android:hardwareAccelerated
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:6:9-44
+	android:largeHeap
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:7:9-33
 	android:icon
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:7:9-36
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:9:9-36
 	android:allowBackup
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:9:9-52
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:11:9-52
 activity#com.controller.LandingpageActivity
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:12:10-19:21
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:14:10-21:21
 	android:label
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:14:10-42
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:16:10-42
 	android:name
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:13:10-45
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:15:10-45
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:15:10-18:26
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:17:10-20:26
 action#android.intent.action.MAIN
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:16:10-62
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:18:10-62
 	android:name
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:16:18-59
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:18:18-59
 category#android.intent.category.LAUNCHER
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:17:10-70
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:19:10-70
 	android:name
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:17:20-67
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:19:20-67
 activity#com.controller.temperature_monitorActivity
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:20:9-23:20
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:22:9-25:20
 	android:label
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:22:13-45
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:24:13-45
 	android:name
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:21:13-56
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:23:13-56
 activity#com.controller.cardActivity
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:24:9-27:20
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:26:9-29:20
 	android:label
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:26:13-45
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:28:13-45
 	android:name
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:25:13-41
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:27:13-41
 activity#com.controller.airconditionActivity
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:28:9-31:20
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:30:9-33:20
 	android:label
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:30:13-45
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:32:13-45
 	android:name
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:29:13-49
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:31:13-49
 activity#com.controller.projectorActivity
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:32:9-35:20
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:34:9-37:20
 	android:label
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:34:13-45
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:36:13-45
 	android:name
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:33:13-46
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:35:13-46
 receiver#com.controller.BootReceiver
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:103:9-109:20
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:105:9-111:20
 	android:name
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:103:19-61
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:105:19-61
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:104:13-108:29
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:106:13-110:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:106:17-107:26
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:108:17-109:26
 	android:name
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:106:25-76
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:108:25-76
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:113:5-97
+ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:115:5-97
 	android:name
-		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:113:22-78
+		ADDED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml:115:22-78
 uses-sdk
 INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\2022autumn\IoT\Chop-Chop-class\app\src\main\AndroidManifest.xml

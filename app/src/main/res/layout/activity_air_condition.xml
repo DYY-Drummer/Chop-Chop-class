@@ -32,13 +32,14 @@
         android:translationX="110dp"
         android:checked="false"
         />
+
     <TextView
         android:layout_width="400dp"
         android:layout_height="100dp"
-        android:translationY="720dp"
-        android:translationX="230dp"
-        android:text="温度高于26℃时\n自动开启空调"
+        android:text="温度高于28℃时\n自动开启空调"
         android:textColor="#4A4747"
         android:textSize="30px"
-        android:textStyle="bold"/>
+        android:textStyle="bold"
+        android:translationX="230dp"
+        android:translationY="720dp" />
 </RelativeLayout>

@@ -6,7 +6,7 @@ package com.topelec.zigbeecontrol;
 public class Command {
 
 
-    public static final int CHECK_SENSOR_DELAY = 1500;
+    public static final int CHECK_SENSOR_DELAY = 500;
     public static final String zigbeePort = "/dev/ttyAMA2";
     public static final String lfRfidPort = "/dev/ttyAMA3";
     public static final String hfRfidPort = "/dev/ttyAMA3";

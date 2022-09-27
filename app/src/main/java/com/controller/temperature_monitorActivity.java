@@ -35,27 +35,6 @@ public class temperature_monitorActivity extends AppCompatActivity implements
             data = msg.getData();
             switch (msg.what) {
                 //判断发送的消息
-//                case 0x02:
-//                    switch (data.getByte("motor_status")) {
-//                        case 0x01:
-//                            fanView.setImageDrawable(getResources().getDrawable(R.drawable.smartagriculture_fan_on));
-//                            waterView.setImageDrawable(null);
-//                            fanStatus = 1;
-//                            break;
-//                        case 0x02:
-//                            fanView.setImageDrawable(null);
-//                            waterView.setImageDrawable(getResources().getDrawable(R.drawable.smartagriculture_water_on));
-//                            fanStatus = 2;
-//                            break;
-//                        case 0x00:
-//                            fanView.setImageDrawable(null);
-//                            waterView.setImageDrawable(null);
-//                            fanStatus = 0;
-//                            break;
-//                        default:
-//                            break;
-//                    }
-//                    break;
                 case 0x03:
                     switch (data.getByte("senser_id")) {
                         case 0x01:
@@ -63,32 +42,14 @@ public class temperature_monitorActivity extends AppCompatActivity implements
                             temperature.setText(String.valueOf(Temp) + ".0°C");
 
                             //如下温度自动化管理代码
-                            if (airconditionActivity.tempAutoSwitch) {
-                                if (Temp >= 28) {
+                            if (airconditionActivity.tempAutoSwitch && Temp >= 28) {
                                     //TODO 温度大于设定值，降低温度，执行打开风扇动作
-                                    mSensorControl.fanForward(true);
-                                } else {
-                                    //TODO 实时温度小于设定值，停止降低温度，如果此时风扇是运行状态，则执行停止风扇动作。
-                                    mSensorControl.fanStop(true);
-                                }
+                                    mSensorControl.fanForward(false);
+                            } else {
+                                //TODO 实时温度小于设定值，停止降低温度，如果此时风扇是运行状态，则执行停止风扇动作。
+                                mSensorControl.fanStop(false);
                             }
                             break;
-//                        case 0x02:
-//                            Hum = data.getInt("senser_data");
-//                            humView.setText(String.valueOf(Hum));
-//
-//                            if (isAuto && toControl.equals("2")) {
-//                                if (Hum < settingHumidity) {
-//                                    //TODO 湿度小于设定值，土壤湿度小，执行浇水（风扇倒转）动作
-//                                    if (fanStatus != 2)
-//                                        mSensorControl.fanBackward(true);
-//                                } else {
-//                                    //TODO 实时湿度大于设定值，土壤湿度足够，停止灌溉。
-//                                    if (fanStatus != 0)
-//                                        mSensorControl.fanStop(true);
-//                                }
-//                            }
-//                            break;
                         default:
                             break;
                     }
@@ -112,7 +73,6 @@ public class temperature_monitorActivity extends AppCompatActivity implements
             switch (i) {
                 case 1:
                     mSensorControl.checkTemperature(true);
-                    i++;
                     break;
                 case 2:
                     mSensorControl.checkHumidity(true);
@@ -147,7 +107,7 @@ public class temperature_monitorActivity extends AppCompatActivity implements
         mSensorControl.addTempHumListener(this);
 
         //TODO:绑定温度传感器数值
-//        temperature.setText("27.5 ℃");
+        temperature.setText("27.0 ℃");
     }
 
 

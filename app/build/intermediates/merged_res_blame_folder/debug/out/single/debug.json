@@ -1,19 +1,19 @@
 [
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthome_btn_motor_on.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthome_btn_motor_on.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_button_background.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\frame_button_background.png"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthome_dark.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthome_dark.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_label.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\dialog_label.png"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthome_led_off.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthome_led_off.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_power_open.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\power_open.png"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_temperature_monitor.xml.flat",
@@ -24,8 +24,8 @@
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smartagriculture_fan_on.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smartagriculture_fan_on.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_student_card.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\student_card.png"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.png.flat",
@@ -40,352 +40,32 @@
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\cover_selector.xml"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image_2.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-nodpi\\image_2.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_bedroom_window_day.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_bedroom_window_day.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_slider_bg.9.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-nodpi\\slider_bg.9.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_kichen_window_day.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_kichen_window_day.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_return_icon.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\return_icon.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_locked_background.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_locked_background.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_button_cancle.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_button_cancle.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_symbol_right.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_symbol_right.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_projector.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_projector.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\back.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_projector_background.PNG.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\projector_background.PNG"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_cancle.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\button_cancle.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_black_24dp.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_bedroom_curtains_open.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_bedroom_curtains_open.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_top.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\anim\\slide_in_top.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\menu\\menu_main.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\background.jpg"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_recharge_background.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_recharge_background.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_icon_white.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\btn_icon_white.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_pass.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_pass.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_aircon_btn_on.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_aircon_btn_on.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foodtraceability_background.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\foodtraceability_background.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_query.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\menu\\menu_query.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_projector.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\projector.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sync_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xhdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_button_recharge.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_button_recharge.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_notification.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\xml\\pref_notification.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_headers.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\xml\\pref_headers.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthome_bright.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthome_bright.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xxhdpi\\ic_info_black_24dp.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_panel_background.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\frame_panel_background.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_black_24dp.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthome_motor_start.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthome_motor_start.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\xml_settings_foodtraceability.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\xml\\settings_foodtraceability.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_bedroom_window_night.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_bedroom_window_night.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sync_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-mdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_kichen_curtains_open.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_kichen_curtains_open.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_icon_blue.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\btn_icon_blue.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temperature_monitor.PNG.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\temperature_monitor.PNG"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wood_board.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\wood_board.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sync_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-hdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_light1.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_light1.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sync_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main2_drawer.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_image.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\thumb_image.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_air_con_status_on.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_air_con_status_on.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_invisible.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\eye_invisible.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_button_author.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_button_author.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_consume_check_right.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_consume_check_right.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_card.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_card.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog_layout.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\layout\\custom_dialog_layout.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_zigbeetest.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_zigbeetest.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_button_nopressbg.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\frame_button_nopressbg.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_scrolling.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_light.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_light.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_bedroom_curtains_close.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_bedroom_curtains_close.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_landingpage.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_landingpage.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_general.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\xml\\pref_general.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image_4.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-nodpi\\image_4.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aircondition_background.jpg.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\aircondition_background.jpg"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image_1.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-nodpi\\image_1.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_consume_check_wrong.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_consume_check_wrong.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthome_led_on.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthome_led_on.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_button_background.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\frame_button_background.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_label.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\dialog_label.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_power_open.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\power_open.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthome_btn_motor_off.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthome_btn_motor_off.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_student_card.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\student_card.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\xml_settings_smartagriculture.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\xml\\settings_smartagriculture.xml"
-    },
-    {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_main2.xml.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\menu\\main2.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smartagriculture_water_on.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smartagriculture_water_on.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_aircon_btn_off.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_aircon_btn_off.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seek_image.png.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\seek_image.png"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image_5.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-nodpi\\image_5.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_kichen_window_night.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_kichen_window_night.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthome_background.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthome_background.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_consume_background.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_consume_background.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_coverflow_activity.xml.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\menu\\menu_coverflow_activity.xml"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xhdpi\\ic_notifications_black_24dp.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_fire_warning.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_fire_warning.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_return_icon.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\return_icon.png"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aircondition.png.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\aircondition.png"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_background.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_background.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_projector.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_projector.xml"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_rectangle.xml.flat",
@@ -396,6 +76,10 @@
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-v21\\ic_info_black_24dp.xml"
     },
     {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_buscard.xml.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\menu\\menu_buscard.xml"
     },
@@ -404,8 +88,12 @@
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_data_sync.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_projector_background.PNG.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\projector_background.PNG"
+    },
+    {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_cancle.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\button_cancle.png"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temperature_background.jpg.flat",
@@ -416,28 +104,40 @@
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\foodtraceability_standby.png"
     },
     {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_power_close.png.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\power_close.png"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buscard_symbol_wrong.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\buscard_symbol_wrong.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_top.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\anim\\slide_in_top.xml"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_label_background.xml.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\label_background.xml"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-hdpi\\ic_notifications_black_24dp.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\background.jpg"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smartagriculture_background.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smartagriculture_background.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_breakin.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_breakin.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_icon_white.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\btn_icon_white.xml"
+    },
+    {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_query.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\menu\\menu_query.xml"
+    },
+    {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_projector.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\projector.png"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_sync_black_24dp.xml.flat",
@@ -468,48 +168,52 @@
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_air_condition.xml"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_kichen_curtains_close.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_kichen_curtains_close.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_panel_background.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\frame_panel_background.png"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-mdpi\\ic_info_black_24dp.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_image_3.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-nodpi\\image_3.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foodtraceability_msg_background.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\foodtraceability_msg_background.png"
-    },
-    {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foodtraceability_image_peanut_butter.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\foodtraceability_image_peanut_butter.png"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_background.xml.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\btn_background.xml"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_notpass.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_notpass.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_icon_blue.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\btn_icon_blue.xml"
+    },
+    {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temperature_monitor.PNG.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\temperature_monitor.PNG"
+    },
+    {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wood_board.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\wood_board.png"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
     },
     {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_notifications_black_24dp.xml.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb_image.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\thumb_image.xml"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
@@ -520,35 +224,39 @@
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\card_background.jpg"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-hdpi\\ic_info_black_24dp.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_invisible.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\eye_invisible.png"
+    },
+    {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_card.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_card.xml"
+    },
+    {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog_layout.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\layout\\custom_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_button_nopressbg.png.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\frame_button_nopressbg.png"
+    },
+    {
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_scrolling.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temperature.png.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\temperature.png"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smarthomewall_hint_message.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\smarthomewall_hint_message.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_landingpage.xml.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\layout\\activity_landingpage.xml"
     },
     {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_info_black_24dp.png"
+        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aircondition_background.jpg.flat",
+        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable\\aircondition_background.jpg"
     },
     {
         "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_bottom.xml.flat",
         "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\anim\\slide_out_bottom.xml"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sync_black_24dp.png.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\drawable-xxhdpi\\ic_sync_black_24dp.png"
-    },
-    {
-        "merged": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\build\\intermediates\\res\\merged\\debug\\xml_settings_smarthome.xml.flat",
-        "source": "E:\\2022autumn\\IoT\\Chop-Chop-class\\app\\src\\main\\res\\xml\\settings_smarthome.xml"
     }
 ]
